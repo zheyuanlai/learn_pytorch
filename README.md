@@ -18,5 +18,6 @@ Click on `ipynb` folder to see the notes:
 * 01. PyTorch Workflow
 * 02. PyTorch Neural Network Classification
 * 03. PyTorch Computer Vision
+* 04. PyTorch Custom Datasets
 
 [link]: https://www.bilibili.com/video/BV1hE411t7RN
