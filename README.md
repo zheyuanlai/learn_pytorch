@@ -20,4 +20,7 @@ Click on `ipynb` folder to see the notes:
 * 03. PyTorch Computer Vision
 * 04. PyTorch Custom Datasets
 
+Click on the `yolov5-5.0` or `yolov5-1.0` folders:
+* from https://github.com/ultralytics/yolov5
+
 [link]: https://www.bilibili.com/video/BV1hE411t7RN
